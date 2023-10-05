@@ -23,7 +23,7 @@ Path_SIGNAPK = f"{Path_Patch}/uber-apk-signer-1.2.1.jar"
 Link_LSPatch = "https://github.com/LSPosed/LSPatch/releases/download/v0.5/lspatch.jar"
 Link_Module_LSPosed = "https://elaxan.com/download/Genshin-Android/yuuki.yuukips.apk"
 Link_Module_LSPosed_Chinese = "https://elaxan.com/download/Genshin-Android/xfk233.genshinproxy.apk"
-Link_APKTOOL = "https://elaxan.com/download/apktool/apktool.jar"
+Link_APKTOOL = "https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.8.1.jar"
 Link_SIGNAPK = "https://github.com/patrickfav/uber-apk-signer/releases/download/v1.2.1/uber-apk-signer-1.2.1.jar"
 
 
